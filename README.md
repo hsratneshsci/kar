@@ -97,6 +97,6 @@ KAR_Project/
 
 ## 👥 Team
 
-- **Developers:** Aburoobha & Ratnesh HS  
+- **Developers:** Aburoobha A & Ratnesh HS  
 - **Institution:** Sri Sairam Engineering College  
 - **Hackathon:** [Your Hackathon Name Here]
